@@ -1,6 +1,9 @@
 # Single-Photon Depth Imaging Using a Union-of-Subspaces Model
 
-Code (MATLAB 2014a) and data used for the paper  
+Code (MATLAB 2014a) and data used for <br>
+"Single-Photon Depth Imaging Using a Union-of-Subspaces Model" <br>
+by D.Shin, J.H.Shapiro, and V.K.Goyal <br>
+in IEEE Signal Processing Letters <br>
 
 @article{shin2015single, <br>
   &nbsp; title={Single-Photon Depth Imaging Using a Union-of-Subspaces Model}, <br>
